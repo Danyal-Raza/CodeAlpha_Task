@@ -124,4 +124,4 @@ If you find this useful, please ⭐ the repository and share your feedback!
 
 ## 📬 Contact
 
-Connect with me on [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/syed-danyal-raza-b80271264/) or open an issue if you have any questions or suggestions!
+Connect with me on [Syed Danyal Raza](https://www.linkedin.com/in/syed-danyal-raza-b80271264/) or open an issue if you have any questions or suggestions!
